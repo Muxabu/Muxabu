@@ -1,6 +1,17 @@
-# Hi, I'm mux
+# Hi, I’m mux
 
-I build mobile and web applications.
+I build apps for mobile and the web.
 
-- **Mobile** — Flutter and Dart for iOS and Android.
-- **Web** — TypeScript for web applications.
+| Platform | Stack |
+| --- | --- |
+| iOS and Android | Flutter, Dart |
+| Web | TypeScript |
+
+<details>
+<summary>بالعربي</summary>
+
+<div dir="rtl">
+أنا mux. بطوّر تطبيقات iOS وAndroid بـ Flutter وDart، وتطبيقات ويب بـ TypeScript.
+</div>
+
+</details>
