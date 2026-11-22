@@ -1,27 +1,32 @@
 <h1>
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/mux-banner.png">
-    <img src="./assets/mux-banner.gif" alt="mux" width="1000" height="248">
+    <img src="./assets/mux-banner.gif" alt="mux — mobile and web developer" width="1000" height="248">
   </picture>
 </h1>
 
-I’m mux, a software developer building apps for mobile and the web.
+I’m mux. I build cross-platform mobile apps and bilingual web interfaces.
 
-## ![Mobile development](./assets/mux-mobile.png)
+## Mobile development
 
-I build **iOS and Android apps** from a shared Flutter and Dart codebase. My work includes using SQLite to store data on the device and connecting Flutter interfaces to native Android services.
+I build for iOS and Android from a shared **Flutter and Dart** codebase. I use **SQLite** to store data on the device and connect Flutter interfaces to native Android services.
 
-## ![Web development](./assets/mux-web.png)
+## Web development
 
-I build web apps with **TypeScript** and work on bilingual interfaces for Arabic and English. That includes adapting layouts and navigation to each language’s reading direction.
+I build web apps with **TypeScript**, including Arabic and English interfaces with layouts and navigation that adapt to each language’s reading direction.
+
+## Selected work
+
+**Basi** lets students and their linked parents track a shared bus and get alerts at their pickup and drop-off stops. The release notes explain how the Driver and Family apps stay in sync and display the same street route. [Read the Basi release notes](https://github.com/Muxabu/basi-release-notes)
 
 <details>
 <summary>عنّي بالعربي</summary>
 
-<div dir="rtl">
+<div dir="rtl" lang="ar">
 
-- **الموبايل** — بطوّر تطبيقات لـ iOS وAndroid بـ Flutter وDart، وبستخدم SQLite لتخزين البيانات على الجهاز، وبربط واجهات Flutter بخدمات Android.
-- **الويب** — بطوّر تطبيقات ويب بـ TypeScript، وبشتغل على واجهات بالعربي والإنجليزي بتراعي اتجاه القراءة في كل لغة.
+- **الموبايل** — بطوّر تطبيقات لـ iOS وAndroid من نفس الكود بـ Flutter وDart، وبستخدم SQLite لتخزين البيانات على الجهاز، وبربط واجهات Flutter بخدمات Android الأصلية.
+- **الويب** — بطوّر تطبيقات ويب بـ TypeScript، منها واجهات بالعربي والإنجليزي بتراعي اتجاه القراءة في ترتيب العناصر والتنقّل.
+- **باصي** — توثيق إصدار لتطبيق نقل بالباص بيشرح تتبّع الباص على الخريطة، وتنبيهات الوصول عند محطات الركوب والنزول، وعرض المسار على الطرق. [توثيق إصدار باصي بالإنجليزي](https://github.com/Muxabu/basi-release-notes)
 
 </div>
 
