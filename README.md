@@ -18,16 +18,3 @@ I build web apps with **TypeScript**, including Arabic and English interfaces wi
 ## Selected work
 
 **Basi** lets students and their linked parents track a shared bus and get alerts at their pickup and drop-off stops. The release notes explain how the Driver and Family apps stay in sync and display the same street route. [Read the Basi release notes](https://github.com/Muxabu/basi-release-notes)
-
-<details>
-<summary>عنّي بالعربي</summary>
-
-<div dir="rtl" lang="ar">
-
-- **الموبايل** — بطوّر تطبيقات لـ iOS وAndroid من نفس الكود بـ Flutter وDart، وبستخدم SQLite لتخزين البيانات على الجهاز، وبربط واجهات Flutter بخدمات Android الأصلية.
-- **الويب** — بطوّر تطبيقات ويب بـ TypeScript، منها واجهات بالعربي والإنجليزي بتراعي اتجاه القراءة في ترتيب العناصر والتنقّل.
-- **باصي** — توثيق إصدار لتطبيق نقل بالباص بيشرح تتبّع الباص على الخريطة، وتنبيهات الوصول عند محطات الركوب والنزول، وعرض المسار على الطرق. [توثيق إصدار باصي بالإنجليزي](https://github.com/Muxabu/basi-release-notes)
-
-</div>
-
-</details>
